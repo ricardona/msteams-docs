@@ -5,6 +5,7 @@ keywords: teams publish store office publishing checklist
 ms.date: 03/30/2018
 ---
 # Checklist for Seller Dashboard submission
+
 AppSource is the new name for Office Store.
 
 The follow metadata is required in your manifest.json file and for AppSource Seller Dashboard submission:
